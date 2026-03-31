@@ -5,7 +5,7 @@
 ![iOS 17+](https://img.shields.io/badge/iOS-17%2B-000?style=flat&logo=apple&logoColor=white&color=C17F59)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-5B7553?style=flat&logo=swift&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-4A3728?style=flat&logo=swift&logoColor=white)
-![Build in Public](https://img.shields.io/badge/build--in--public-YouTube-8B7D6B?style=flat&logo=youtube&logoColor=white)
+[![Build in Public](https://img.shields.io/badge/build--in--public-YouTube-8B7D6B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@gabrielperalta-4.6)
 
 ---
 
